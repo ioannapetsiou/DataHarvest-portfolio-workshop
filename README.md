@@ -72,7 +72,7 @@ Your portfolio will then be live at:
 
 Just a quick note: in your repository, you will see a **Settings** button next to **About**.
 
-If you click on it and go to the **GitHub Pages** section, you will find the link to your live portfolio website.
+If you click on you will see a choice to "Use your GitHub Pages website", and there you will find the link to your live portfolio website.
 
 This is the URL where your site is published.
 
