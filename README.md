@@ -1,4 +1,4 @@
-## Dataharvest Portfolio Workshop Template
+## DataHarvest Portfolio Workshop Template
 
 <b>Welcome!</b>
 
@@ -68,6 +68,15 @@ Your portfolio will then be live at:
 **https://yourusername.github.io**
 
 ---- 
+### Finding your website URL
+
+Just a quick note: in your repository, you will see a **Settings** button next to **About**.
+
+If you click on it and go to the **GitHub Pages** section, you will find the link to your live portfolio website.
+
+This is the URL where your site is published.
+
+----
 
 <i>This is a GitHub repository, which means any changes you make (editing files, updating text, adding images) will automatically update your live website after a short delay.</i>
 
