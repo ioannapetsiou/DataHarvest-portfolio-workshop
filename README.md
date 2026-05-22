@@ -112,7 +112,7 @@ Well done! You’ve built and published your first portfolio website!
 
 From here, this is yours to grow. Add your work, refine your design, experiment with structure, and keep updating it as your projects evolve.
 
-You can download the workshop's presentation <a href="https://drive.google.com/drive/folders/1awhIuDOyV39JrDs1tlT-aPs2bu61hd2h?usp=sharing ">here.</a> 
+<b> You can download the workshop's presentation <a href="https://drive.google.com/drive/folders/1awhIuDOyV39JrDs1tlT-aPs2bu61hd2h?usp=sharing ">here.</a> </b>
 
 Thank you for taking part in the workshop!
 
